@@ -39,3 +39,14 @@ python3 generateFw.py spec.json outdata.data
 ```
 python3 fw2csv.py spec.json outdata.data outdata.csv
 ```
+
+
+## To do - Future: 
+
+  - The scripts generates only int(random) type data, so adding new data types will have to be added, ideally the spec.json can be
+used as the source for this directive.
+  - Add some data validation based on the requird data type.
+  - Add more encoging types to be used.
+  - Add file split size by lines or MBs.
+  
+  
