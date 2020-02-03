@@ -21,7 +21,7 @@ docker build -t latitude .
 
 docker run -it -d latitude /bin/bash
 
-docker exec -it  05c94732916733e /bin/bash
+docker exec -it  < container id > /bin/bash
 
 cd /opt/scripts
 ```
