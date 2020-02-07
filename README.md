@@ -13,7 +13,7 @@
 ```
 cd /opt/docker/
 
-git clone https://github.com/AODBA/latitude.git
+git clone https://github.com/AODBA/Generate_Fixed_Width-FixedWidtd-to-CSV.git
 
 cd latitude
 
