@@ -4,7 +4,7 @@ import sys
 #Use to read the specs definition
 
 
-specfile = 'C:\\Users\\adrian.oprea\\PycharmProjects\\RioTinto\\Latitude\\spec.json'
+specfile = 'C:\\Users\\adrian.oprea\\PycharmProjects\\\spec.json'
 inFile = 'output.data'
 outFile = 'output.csv'
 
