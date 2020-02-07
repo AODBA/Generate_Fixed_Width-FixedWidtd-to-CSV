@@ -1,4 +1,4 @@
-# latitude
+# Failure
 ## Description:
 
 *generateFw.py* - Python script that generate a Fixed Width File based on the spec file (script/spec.json)
